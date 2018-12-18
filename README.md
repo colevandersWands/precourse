@@ -53,9 +53,9 @@ assignment: join slack, join a group call, find 2 primary precourse study-buddie
 
 * follow --these-- lessons on learngitbranching.org 
     * solo
-* fork --this-- repository and complete the steps
+* fork --[this](https://github.com/colevandersWands/githubbing)-- repository and complete the steps. (this is now more of a finished example than project starter)
     * solo
-* you and your partner start new repos and do --these-- pr exercises
+* you and your partner start new repos and do --[these](https://elewa-academy.github.io/Fundamentals/02-all-my-friends/)-- pr exercises. (need to turn this into a free-standing repo)
     * pair
 * link to this repo on your portfolio
 
@@ -71,24 +71,10 @@ end result will be a forked repository with empty but named files, a few branche
 * complete 'basic javascript' on free code camp
     * solo
     * include a screen shot in your repo to show you finished, link to it from your readme
-* create a js file called 'fcc-solutions.js' and paste over your solutions to --these-- exercises.  place each one in a block with a console.log label. 
-    * pair
-    * (preparation for exercise format later on)  
-    * (or have each exercise in a different file)  
-    * (or have some other little challenge that doesn't come from fcc)
-        * i like this idea
-        * come up with a nice little exercise or two that fits the later format
-        * and even say that this is what's happening
-        * maybe a console portfolio?  using template literals and console.logs write a script that replicates much of your portfolio in the console.  use console.md from tressa?  
-            * can set things like your name as a variable at the top
-            * can recall the function that draws the portfolio
-            * can reset variables and recall the function. so it's a terrible function that reads global variables
-        * for some extra gimmegimme, get gritty with the devtools
-        * develop it in replit, them move it to gh with the html
-    * (or it's a thing with pythontutor, links to extra helpful examples?) 
-* create an index.html that does nothing but require this script
-* put it live on gh-pages so you can easily inspect eachothers solutions
-* link to this repo on your portfolio, and separately to the gh-hosting of your consolio
+* link to this new repo on your portfolio
+* in your portfolio repo, create two new file called 'consolio.html' and 'consolio.js'.  You will use them to make a mini portfolio that prints to the devtools console.  
+    * it is easiest to develope it first in replit like --[this](https://repl.it/@colevandersWands/consolio)--, before copying the finished portfolio into your github repo like --[this](https://colevanderswands.github.io/consolio/)--
+    * once it is live, you will be able to reprint your portfolio with different a different name, different hobies, and more! simply by reassigning variables in the console
 
 [TOP](#precourse)
 
@@ -96,11 +82,12 @@ end result will be a forked repository with empty but named files, a few branche
 
 ## HTML & CSS
 
-* create a new repo called 'fcc-html-css'. you'll use the readme to take notes (```html ... ```)
+* create a new repo called 'fcc-html-css'. you'll use the readme to take notes 
+    * you can include colored snippets of html in markdown, it's helpful
 * complete the whole html & css in freecodecamp, include a screenshot
     * solo
-* copy paste each of your completed fcc html projects into this repo, creating a new file on a new branch before merging & tagging. as with the git/hub exercise
-* create a main index.html that links to each of the projects, and put a link back to the index on each project.  decorate said index page to you liking.  turn on gh-pages
+* copy paste each of your completed fcc html projects into your fcc-html-css repo, creating a new file on a new branch before merging & tagging. as with the git/hub exercise
+* create a main index.html that links to each of the projects, and put a link back to the index on each project.  decorate said index page to you liking.  you now have a fully-navigable showcase of all your projects!
     * pair
 * link to this repo & the live gh-pages from your portfolio
 
