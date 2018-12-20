@@ -1,6 +1,19 @@
 # JavaScript
 
 
+* create a new repo called 'fcc-basic-js'.  you will use this readme to take notes on what you learn in fcc
+* complete 'basic javascript' on free code camp
+    * solo
+    * include a screen shot in your repo to show you finished, link to it from your readme
+* link to this new repo on your portfolio
+* in your portfolio repo, create two new file called 'consolio.html' and 'consolio.js'.  You will use them to make a mini portfolio that prints to the devtools console.  
+    * it is easiest to develope it first in a fork of --[this](https://repl.it/@colevandersWands/consolio)-- replit (be sure to open in new tab!). Once you are happy with your consolio on replit, copy-paste it into into your github repo like --[this](https://colevanderswands.github.io/consolio/)--
+    * once it is live, you will be able to reprint your portfolio with different a different name, different hobies, and more! simply by reassigning variables in the console
+    * http://tddbin.com/#?
+
+
+-- other old stuff to reuse --
+
 The first step towards becoming a code master is to become JavaScript.  
 
 1. Memorize the basic language features in JS.
@@ -89,17 +102,6 @@ References from the web
 
 
 
-
-## JavaScript
-
-* create a new repo called 'fcc-basic-js'.  you will use this readme to take notes on what you learn in fcc
-* complete 'basic javascript' on free code camp
-    * solo
-    * include a screen shot in your repo to show you finished, link to it from your readme
-* link to this new repo on your portfolio
-* in your portfolio repo, create two new file called 'consolio.html' and 'consolio.js'.  You will use them to make a mini portfolio that prints to the devtools console.  
-    * it is easiest to develope it first in a fork of --[this](https://repl.it/@colevandersWands/consolio)-- replit (be sure to open in new tab!). Once you are happy with your consolio on replit, copy-paste it into into your github repo like --[this](https://colevanderswands.github.io/consolio/)--
-    * once it is live, you will be able to reprint your portfolio with different a different name, different hobies, and more! simply by reassigning variables in the console
 
 ___
 ___
