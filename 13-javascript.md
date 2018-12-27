@@ -39,9 +39,9 @@ So study hard. Dig in now, and keep at it every day.  The more you prepare, the 
 ## Project
 
 1. Create a new repo called "js-notes" and link to it in your portfolio.  
-  * You'll want to build your own 'vocabulary list' to keep track of the built-in JS language features as you come across them.  One of the most common difficulties in the early stages of programming is just remembering all of the language features available!  
-  * Having a complete list of everything you know, written in your own words, will be invaluable as you try to start to solve programming challenges on your own.
-  * Start building a collection of clear code samples & sketches that have helped you understand key concepts, we recommend trying to store them in a directory of Markdown files.  
+    * You'll want to build your own 'vocabulary list' to keep track of the built-in JS language features as you come across them.  One of the most common difficulties in the early stages of programming is just remembering all of the language features available!  
+    * Having a complete list of everything you know, written in your own words, will be invaluable as you try to start to solve programming challenges on your own.
+    * Start building a collection of clear code samples & sketches that have helped you understand key concepts, we recommend trying to store them in a directory of Markdown files.  
 2. Complete 'Basic JavaScript' from [Free Code Camp](https://learn.freecodecamp.org/)'s JS Algorithms & Data Structures.  Once you've finished, take a screen shot of your finished screen and paste it in your portfolio.
 3. Fork [this replit](https://repl.it/@colevandersWands/consolio) and make a console portfolio.  Link also to this in your portfolio.
 4. Continue practice whatever keeps you motivated. If you find one tutorial too easy, hard, or boring, move on!  What's important is that you stay motivated and keep studying, not which tutorials or projects you finish.
