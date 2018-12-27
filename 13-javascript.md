@@ -63,7 +63,7 @@ Code visualization and study tools:
 * __Control Flow Visualization:__ Turn any JS code into a diagram illustrating how data flows through. [Code2flow](https://code2flow.com/app) or [Bogdan Lyashenko](https://bogdan-lyashenko.github.io/js-code-to-svg-flowchart/docs/live-editor/index.html), use the one you prefer.
 
 Snippet Studies:
-* (based off PythonTutor & parsonizing)
+* (built around PythonTutor & parsonizing)
 * [variables & types](https://github.com/elewa-academy/variables-and-types)
 * [the value swap](https://github.com/elewa-academy/value-swap)
 * [hoisting](https://github.com/elewa-academy/hoisting)
