@@ -9,22 +9,6 @@ So if you're interested in trying out true Pair Programming, go for it!  There i
 
 If you prefer to work more freely with your Buddy, go for it!  Find a dynamic that works for both of you.
 
-### Index
-* [Learning Objectives](#learning-objectives)
-* [Specifications](#specifications)
-* [Resources](#resources)  
-
----
-
-## Learning Objectives
-
-* Active Collaboration
-* Teaching & Being Taught
-* Compromise
-* Communication
-
-[TOP](#index)
-
 ---
 
 ## Resources
@@ -41,10 +25,6 @@ Inanimate Study Buddies:
 * [Study-Buddy.js](https://github.com/teesloane/Study-Buddy)
 
 
-[TOP](#index)
-
-
 ___
 ___
 ### <a href="http://janke-learning.org" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/50098409-22575780-021c-11e9-99e1-962787adaded.png" width="40" height="40"></img> Janke Learning</a>
-

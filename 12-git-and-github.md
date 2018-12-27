@@ -1,6 +1,7 @@
 ## Git & GitHub
 
 
+first:
 * follow --these-- lessons on learngitbranching.org 
     * solo
 * fork --[this](https://github.com/colevandersWands/githubbing)-- repository and complete the steps. (this is now more of a finished example than project starter)
@@ -11,6 +12,11 @@
 
 end result will be a forked repository with empty but named files, a few branches, and a few releases.  they can see their own git structure on 'network' as well as see where other are at on this project
 
+second:
+* start a new repo called 'notes'
+* use it to take notes & practice with git/hub
+
+--- old stuff to sort ---
 
 * Git is a command-line application that allows you to travel through time.  Every commit saves a complete image of your directory structure at the time of commiting (actually your staged directory structure, but whatever for now). 
 * Git allows you to create alternative universes.  With branches you can save two copies of the same directory that differ by a single file/method/bug/...  This is very practical for testing experimental features, fixing bugs, or sharing work across a group.
@@ -124,7 +130,6 @@ ___
 
 * [Launch School's Git and Github](https://launchschool.com/books/git/). Resource for learning about git and github.
 * [Git and Github in plain English](https://blog.red-badger.com/blog/2016/11/29/gitgithub-in-plain-english).  Out standing overview.
-
 
 ___
 ___
