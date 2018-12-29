@@ -1,12 +1,12 @@
 ## HTML & CSS
 
-* create a new repo called 'fcc-html-css'. you'll use the readme to take notes 
-    * you can include colored snippets of html in markdown, it's helpful
+* create a new repo called 'fcc-html-css'. you'll use the readme to take notes.  you can include colored snippets of html in markdown, it's helpful
 * complete the whole html & css in freecodecamp, include a screenshot
-    * solo
-* copy paste each of your completed fcc html projects into your fcc-html-css repo, creating a new file on a new branch before merging & tagging. as with the git/hub exercise
-* create a main index.html that links to each of the projects, and put a link back to the index on each project.  decorate said index page to you liking.  you now have a fully-navigable showcase of all your projects!
-    * pair
+* open a new html repl.it to host all of your fcc final projects. Create a main index.html and one html file for each of your fcc projects. Turn the index.html into a table of contents for each project and put a link back to the index on each one. decorate said index page to you liking.  you now have a fully-navigable showcase of all your projects!
+* Link to the replit from your portfolio.
+* for extra practice with github, copy paste each of your completed fcc html projects into your fcc-html-css repo, creating a new file on a new branch before merging & tagging. as with the git/hub exercise
+
+
 * link to this repo & the live gh-pages from your portfolio
 
 

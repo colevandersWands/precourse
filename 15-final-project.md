@@ -2,9 +2,13 @@
 
 (done in pairs)
 
+build a new portfolio:
+* download VS code & chrome.  practice using these by developing a new portfolio locally on your computer
+* go all out, try anything you want: bootstrap, fancy css, ...
+
+host the new portfolio:
 * branch your original md portfolio onto a new branch called markdown-portfolio
 * clear the master branch, and start over with a new html portfolio
-* go all out, try anything you want: bootstrap, fancy css, ...
 
 ___
 ___
