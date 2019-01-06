@@ -1,18 +1,19 @@
+# Tools of the Trade
+
+
 
 ---
 
 ## Learning Objectives
 
-* What's software development really like?
-* Ethical Programming
-* Communicating with Code
-* The development environment
-  * [The Internet](#the-internet)
-  * [Browsers](#browsers)
-  * [JS, HTML & CSS](#js-html-css)
-  * [Web Apps](#web-apps)
 
-[TOP](#index)
+* [The Internet](#the-internet)
+* [Browsers](#browsers)
+* [JS, HTML & CSS](#js-html-css)
+* [Web Apps](#web-apps)
+* [Working Locally](#local-development)
+
+
 
 ---
 
@@ -35,40 +36,44 @@ HTTP:
 * [Easy HTTP](https://www.jmarshall.com/easy/http/)
 * [HTTP Video](https://www.youtube.com/watch?v=eesqK59rhGA)
 
+---
 
 ### Browsers
 
-In the simplest definition, a browser is an application that imports and renders HTML, CSS & JS from anywhere in the internet.  Check out the resources below for a better overview.
+In the simplest definition, a browser is an application that imports and renders HTML, CSS & JS from anywhere in the internet. 
 
 * [LifeWire](https://www.lifewire.com/what-is-a-browser-446234)
 * [Foxy Video](https://www.google.com/search?q=what+is+a+web+browser&client=safari&rls=en&source=lnms&tbm=vid&sa=X&ved=0ahUKEwjT_fHmrubbAhWszIMKHYArAKUQ_AUICigB&biw=1280&bih=739)
 * [Browser vs Search Engine](https://www.computer-geek.net/what-is-the-difference-be-va-47.html)
 
+Besides just acting as search & rendering engines for content served over the internet, browsers come with built-in tools for inspecting and developing websites.  In this course you will learn to develop, debug & present your work through [Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools).
 
-### JS, HTML & CSS
-
-These three tools are usually grouped together because they are all necessary to build interesting websites, but each one totally unique.
-
-__JavaScript__
-
-JS is a [_programming language_](https://techterms.com/definition/programming_language), it is the meat in your cake.  JavaScript is a full programming language with super powers.  Along with the standard functionalities of any programming language JavaScript can:
-* Manipulate the DOM in your browser
-* Send and receive HTTP requests
-* Perform asynchronous operations
-* Offload work to 3rd party services
-
-You'll learn more about all these features later on in this bootcamp.  For now you'll just have to worry about the basics (functions, variables, control flow), and a little bit of DOM manipulation.
+---
 
 
-__HTML__
+### JavaScript
+
+JS is a [_programming language_](https://techterms.com/definition/programming_language), it is the meat in your cake.  JavaScript is a full programming language plus super powers.  Along with the standard functionalities of a programming language JavaScript can:
+* Manipulate the DOM in your browser, making user interactions easy to handle
+* Send and receive HTTP requests across the internet
+
+You'll learn more about all these features later on in this course.  For now you'll on the basic features of JavaScript.
+
+---
+
+### HTML
 
 HTML is a [_markup language_](https://techterms.com/definition/markup_language) used to define layout and appearance of your website.  At least until [HTML5](https://www.portent.com/blog/design-dev/html5-like-really-important.htm) came out.  HTML5 adds a lot of functionality to your markup, but is still not as powerful as JavaScript or CSS.
 
-__CSS__
+---
+
+### CSS
 
 CSS isn't quite a Markup Language, and isn't quite a programming language.  You can think of it as a tool for changing the way your looks without changing how it's structured in your source code.  [CSS is it's own strange beast](http://www.webmasterview.com/2017/11/css/), some love it and some hate it.
 
-__Web Apps__
+---
+
+### Web Apps
 
 In simplest words a web application is just software that its split across the internet.  The part you see runs on your computer, but it talks with other parts anywhere in the world using HTTP.   Those other parts usually do all the hard work.
 
@@ -80,7 +85,11 @@ In simplest words a web application is just software that its split across the i
 * [web-app vs web-site 1](https://stackoverflow.com/questions/8694922/whats-the-difference-between-a-web-site-and-a-web-application)
 * [web-app vs web-site 2](https://www.seguetech.com/website-vs-web-application-whats-the-difference/)
 
-[TOP](#precourse)
+---
+
+### Working Locally
+
+Developing on your own
 
 
 ___
