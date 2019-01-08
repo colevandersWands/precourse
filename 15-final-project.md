@@ -2,13 +2,7 @@
 
 (done in pairs)
 
-build a new portfolio:
-* download VS code & chrome.  practice using these by developing a new portfolio locally on your computer
-* go all out, try anything you want: bootstrap, fancy css, ...
-
-host the new portfolio:
-* branch your original md portfolio onto a new branch called markdown-portfolio
-* clear the master branch, and start over with a new html portfolio
+we find an outstanding css tutorial and they build killer portfolios on replit, it should include a little bio and links to all the projects on their current markdown portfolio.  put a link to the replit on the readme, and copy the portfolio in the un.gh.io repo to make that the live portfolio.  the readme will now just be the readme
 
 ___
 ___

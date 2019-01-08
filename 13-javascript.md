@@ -44,9 +44,6 @@ So study hard. Dig in now, and keep at it every day.  The more you prepare, the 
     * Start building a collection of clear code samples & sketches that have helped you understand key concepts, we recommend trying to store them in a directory of Markdown files.  
 2. Complete "_Basic JavaScript_" & "_ES6_" from [Free Code Camp](https://learn.freecodecamp.org/)'s JS Algorithms & Data Structures.  Once you've finished, take a screen shot of your finished screen and paste it in your portfolio.
 3. Fork [this replit](https://repl.it/@colevandersWands/consolio) and make a console portfolio.  Link also to this in your portfolio.
-    * maybe change this to css in console logs?
-    * pros: no dependancies, initial practice with dev tools
-    * cons: workflow
 4. Continue practice whatever keeps you motivated. If you find one tutorial too easy, hard, or boring, move on!  What's important is that you stay motivated and keep studying, not which tutorials or projects you finish.
 
 Stay involved!  Studying a little bit (even 15 minutes) every day and staying active on Slack will make you life a lot easier.

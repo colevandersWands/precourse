@@ -27,7 +27,10 @@ Join us [ON SLACK]().
 * [Git & GitHub](./12-git-and-github.md)
 * [JavaScript](./13-javascript.md)  
 * [HTML & CSS](./14-html-css.md)
-* [Final Project](./15-final-project.md)    
+* [Final Project](./15-final-project.md)   
+
+### Next Steps / challenge:
+* local tools project 
 
 
 ___

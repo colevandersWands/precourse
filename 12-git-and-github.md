@@ -16,6 +16,9 @@ second:
 * start a new repo called 'notes'
 * use it to take notes & practice with git/hub
 
+-  include only information about github, we'll cover git in 'working locally'  -
+
+
 --- old stuff to sort ---
 
 * Git is a command-line application that allows you to travel through time.  Every commit saves a complete image of your directory structure at the time of commiting (actually your staged directory structure, but whatever for now). 
